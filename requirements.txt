@@ -1,0 +1,5 @@
+whisperx
+pyannote.audio
+PyQt5
+torch
+pyyaml
